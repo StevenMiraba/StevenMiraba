@@ -25,7 +25,7 @@ proyectos y mis intereses.
 * Nombre: **Walter Steven Mirabá Condoy**
 * Ocupación: **Estudiante de la carrera de Ingeniería en Computación**
 * Lugar de residencia: **Alborada VI etapa**
-* Sitio web: [Github personal](https://github.com/StevenMiraba/StevenMiraba/)
+* Sitio web: [Github personal](https://stevenmiraba.github.io/StevenMiraba/)
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
