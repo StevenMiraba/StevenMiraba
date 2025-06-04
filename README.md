@@ -30,8 +30,14 @@ proyectos y mis intereses.
 * Sitio web: [Github personal](https://stevenmiraba.github.io/StevenMiraba/)
 ---
 ## Proyectos
-* # Proyecto de base de datos
-  Mi proyecto final de la materia de Base de Datos se trata de un software, realizado con python y enlazado a una base de datos de MySQL, para una agencia de viajes que permita realizar sus actividades principales como realizar reservas y/o consultas, optimizando el proceso de su negocio y garantizando la seguridad de los datos de sus clientes.
+* ### Proyecto de Base de Datos
+  Mi proyecto final de la materia de Base de Datos se trata de un software, realizado con python y enlazado a una base de datos de MySQL, destinado a una agencia de viajes para que pueda realizar sus actividades principales como realizar reservas y/o consultas, optimizando el proceso de su negocio y garantizando la seguridad de los datos de sus clientes.
+  Se aplicó los conceptos aprendidos en la materia como consultas, transacciones, seguridad y control, permisos, modelado de datos, etc.
   [Enlace a proyecto BASE DE DATOS](https://github.com/StevenMiraba/ProyectoBDG7.git)
+* ### Proyecto de Estructura de Datos
+  Mi proyecto final de la materia de Estructura de Datos se trata de un software realizado con Java que modula la aplicacion "contactos" de tal manera que se vea reflejado los diferentes conceptos aprendidos en la materia como: Listas, Listas Dobles, Listas Doblemente enlazadas, Listas Circulares, etc.
+  [Enlace a proyecto ESTRUCTURA DE DATOS](https://github.com/DiegoBedoya1/Proyecto-Estructuras.git)
+* ### Proyecto de Programación Orientada a Objetos
+  Mi proyecto de POO trata sobre un software realizado con Java que muestra una interfaz atractiva en la que se puede realizar reservas de boletos de avión, se puede escoger la tarifa que necesite el cliente, y realizar el pago. Aquí se aplicó conceptos bases sobre Java, creacion de objetos, Java
 ## Intereses
 * [Lista de tus intereses]
