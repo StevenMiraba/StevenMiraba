@@ -22,10 +22,10 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Walter Steven Mirabá Condoy
+* Ocupación: Estudiante de la carrera de Ingeniería en Computación
+* Lugar de residencia: Alborada VI etapa
+* Sitio web: https://github.com/StevenMiraba/StevenMiraba/
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
