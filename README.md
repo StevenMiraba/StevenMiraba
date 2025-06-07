@@ -38,6 +38,10 @@ proyectos y mis intereses.
   Mi proyecto final de la materia de Estructura de Datos se trata de un software realizado con Java que modula la aplicacion "contactos" de tal manera que se vea reflejado los diferentes conceptos aprendidos en la materia como: Listas, Listas Dobles, Listas Doblemente enlazadas, Listas Circulares, etc.
   [Enlace a proyecto ESTRUCTURA DE DATOS](https://github.com/DiegoBedoya1/Proyecto-Estructuras.git)
 * ### Proyecto de Programación Orientada a Objetos
-  Mi proyecto de POO trata sobre un software realizado con Java que muestra una interfaz atractiva en la que se puede realizar reservas de boletos de avión, se puede escoger la tarifa que necesite el cliente, y realizar el pago. Aquí se aplicó conceptos bases sobre Java, creacion de objetos, Java
+  Mi proyecto de POO trata sobre un software realizado con Java que muestra una interfaz atractiva en la que se puede realizar reservas de boletos de avión, se puede escoger la tarifa que necesite el cliente, y realizar el pago. Aquí se aplicó conceptos bases sobre Java, creacion de objetos, JavaFx, y manejo de contenedores.
+  [Enlace a proyecto PROGRAMACIÓN ORIENTADA A OBJETOS](https://github.com/StevenMiraba/PAR4_PROY2P_MIRABA_MOREIRA_VALDIVIA.git)
 ## Intereses
-* [Lista de tus intereses]
+* Desarrollo de software y programación
+* Aprendizaje continuo y nuevas tecnologías
+* Juegos en linea
+  
