@@ -46,7 +46,7 @@ proyectos y mis intereses.
 * ### Proyecto de Programación Orientada a Objetos
   Mi proyecto de POO trata sobre un software realizado con Java que muestra una interfaz atractiva en la que se puede realizar reservas de boletos de avión, se puede escoger la tarifa que necesite el cliente, y realizar el pago. Aquí se aplicó conceptos bases sobre Java, creacion de objetos, JavaFx, y manejo de contenedores.
   [Enlace a proyecto PROGRAMACIÓN ORIENTADA A OBJETOS](https://github.com/StevenMiraba/PAR4_PROY2P_MIRABA_MOREIRA_VALDIVIA.git)
-  
+
 ---
 
 ## Intereses
